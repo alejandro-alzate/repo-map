@@ -19,16 +19,13 @@ This repo just highlight my projects that at least hold any water or are worth c
 
 <div align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejandro-alzate&theme=2077" alt="Summary"/>
-	<table style="border: none; border-spacing: 0; margin: auto;">
-	<tr>
-		<td>
-			<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alejandro-alzate&theme=2077" alt="Repositories per language"/>
-		</td>
-		<td>
-			<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alejandro-alzate&theme=2077" alt="Most commits per language"/>
-		</td>
-	</tr>
-	</table>
+</div>
+
+<div align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alejandro-alzate&theme=2077" alt="Repositories per language"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alejandro-alzate&theme=2077" alt="Most commits per language"/>
+</div>
+<div align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alejandro-alzate&theme=2077" alt="Streak"/>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejandro-alzate&theme=2077&utcOffset=8" alt="Productive time"/>
 </div>
