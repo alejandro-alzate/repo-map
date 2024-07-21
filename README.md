@@ -55,7 +55,7 @@ Things that I though deserved some help (And that I could help)...
 	- [doctorcatthegamefixed](https://github.com/alejandro-alzate/doctorcatthegamefixed) A funny cat game made by [josefnpat](https://github.com/josefnpat)
 - Where I helped on localization
 	- [Vector Pinball](https://github.com/alejandro-alzate/Vector-Pinball) A minimalst vector game for android made by [dozingcat](https://github.com/dozingcat)
-	- [Relativty](https://github.com/alejandro-alzate/Relativty) A very cool VR Headset made with off the shelf components created by [maxim](https://twitter.com/maxim_xyz) on the [relativty](https://github.com/relativty) community
+	- [Relativty](https://github.com/alejandro-alzate/Relativty) A very cool VR Headset made with off the shelf components created by [maxim](https://github.com/maxim-perumal) on the [relativty](https://github.com/relativty) community
 - General contribution
 	- [awesome-love2d](https://github.com/alejandro-alzate/awesome-love2d) A awesome list with must have [LÖVE2D](love2d.org) tools made by the [love2d-community](https://github.com/love2d-community)
 	- [griddycode](https://github.com/alejandro-alzate/griddycode) A very based code editor made by [face-hh](https://github.com/face-hh)
