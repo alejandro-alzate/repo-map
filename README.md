@@ -8,11 +8,15 @@ My biggest flaw is that I'm not the most ordered guy on existence per say, when 
 This repo just highlight my projects that at least hold any water or are worth checking on my opinion or sometimes I just want to share them so people can take a look.
 
 ## Contents
+- [Portfolio](#portfolio)
 - [Libraries](#libraries)
 - [Software](#software)
 - [Examples](#examples)
 - [Contributions](#contributions)
 - [Other](#other)
+
+## Portfolio
+[![GitHub Streak](https://streak-stats.demolab.com?user=alejandro-alzate&theme=dark&border_radius=30&locale=es&date_format=j%20M%5B%20Y%5D&background=45%2CBF00EB%2C0041EB)](https://git.io/streak-stats)
 
 ## Libraries
 Software tools that you may have a use for...
