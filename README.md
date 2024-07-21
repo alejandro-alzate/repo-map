@@ -19,7 +19,7 @@ This repo just highlight my projects that at least hold any water or are worth c
 
 <div align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejandro-alzate&theme=2077" alt="Summary"/>
-	<table>
+	<table style="border: none; border-spacing: 0; margin: auto;">
 	<tr>
 		<td>
 			<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alejandro-alzate&theme=2077" alt="Repositories per language"/>
