@@ -16,14 +16,23 @@ This repo just highlight my projects that at least hold any water or are worth c
 - [Other](#other)
 
 ## Portfolio
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejandro-alzate&theme=2077)
 
-![Repositories per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alejandro-alzate&theme=2077)
-![Most commits per language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alejandro-alzate&theme=2077)
+<div align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejandro-alzate&theme=2077" alt="Summary"/>
+	<table>
+	<tr>
+		<td>
+			<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alejandro-alzate&theme=2077" alt="Repositories per language"/>
+		</td>
+		<td>
+			<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alejandro-alzate&theme=2077" alt="Most commits per language"/>
+		</td>
+	</tr>
+	</table>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alejandro-alzate&theme=2077" alt="Streak"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejandro-alzate&theme=2077&utcOffset=8" alt="Productive time"/>
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alejandro-alzate&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejandro-alzate&theme=2077&utcOffset=8)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=alejandro-alzate&theme=dark&border_radius=30&locale=es&date_format=j%20M%5B%20Y%5D&background=45%2CBF00EB%2C0041EB)](https://git.io/streak-stats)
 
 ## Libraries
 Software tools that you may have a use for...
