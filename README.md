@@ -30,7 +30,7 @@ This repo just highlight my projects that at least hold any water or are worth c
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejandro-alzate&theme=2077&utcOffset=-5" alt="Productive time"/>
 </div>
 <div align="center">
-	<img src="https://streak-stats.demolab.com?user=alejandro-alzate&theme=dark&border_radius=30&locale=es&date_format=j%20M%5B%20Y%5D&background=45%2CBF00EB%2C0041EB" alt="Streak"/>
+	<img src="https://streak-stats.demolab.com?user=alejandro-alzate&theme=burnt-neon&hide_border=true&card_width=700&card_height=200" alt="Streak"/>
 </div>
 
 
