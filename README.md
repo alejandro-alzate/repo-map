@@ -1,5 +1,5 @@
 # *Repository Map*
-A map to guide you through my mess. Cut and dry I really don't think my repos are the best to navigate through, so better ease the chore with ease.
+A map to guide you through my mess. Cut and dry I really don't think my repos are the best to navigate through, so better help the chore with ease.
 
 Hello guys I'm alejandro-alzate I'm a computer enthusiast, I generally code for fun and I share my projects tools and libraries that I've developed over the time.
 
@@ -37,7 +37,7 @@ This repo just highlight my projects that at least hold any water or are worth c
 ## Libraries
 Software tools that you may have a use for...
 - [srt.lua](https://github.com/alejandro-alzate/srt-lua) A simple Subtitle Rip Text (SRT) Parser in pure lua.
-<!-- - [Object.lua](https://github.com/alejandro-alzate/Object.lua) OOP in lua made easy! -->
+- [Object.lua](https://github.com/alejandro-alzate/Object.lua) OOP in lua made easy!
 - [gfxTables.lua](https://github.com/alejandro-alzate/gfxTables.lua) A very janky way to print like SQL does.
 
 ## Software
@@ -50,8 +50,17 @@ Some software that really doesn't serve much purpose but to be learned upon...
 
 ## Contributions
 Things that I though deserved some help (And that I could help)...
-- [solitaire-lua-fixed](https://github.com/alejandro-alzate/solitaire-lua-fixed) A simple solitaire game by [ortzinator](https://github.com/ortzinator) where I fixed some compatibility problems.
-- [doctorcatthegamefixed](https://github.com/alejandro-alzate/doctorcatthegamefixed) A funny cat game made by [josefnpat](https://github.com/josefnpat) where I fixed some compatibility problems.
+- Where I fixed some compatibility problems.
+	- [solitaire-lua-fixed](https://github.com/alejandro-alzate/solitaire-lua-fixed) A simple solitaire game by [ortzinator](https://github.com/ortzinator)
+	- [doctorcatthegamefixed](https://github.com/alejandro-alzate/doctorcatthegamefixed) A funny cat game made by [josefnpat](https://github.com/josefnpat)
+- Where I helped on localization
+	- [Vector Pinball](https://github.com/alejandro-alzate/Vector-Pinball) A minimalst vector game for android made by [dozingcat](https://github.com/dozingcat)
+	- [Relativty](https://github.com/alejandro-alzate/Relativty) A very cool VR Headset made with off the shelf components created by [maxim](https://twitter.com/maxim_xyz) on the [relativty](https://github.com/relativty) community
+- General contribution
+	- [awesome-love2d](https://github.com/alejandro-alzate/awesome-love2d) A awesome list with must have [LÖVE2D](love2d.org) tools made by the [love2d-community](https://github.com/love2d-community)
+	- [griddycode](https://github.com/alejandro-alzate/griddycode) A very based code editor made by [face-hh](https://github.com/face-hh)
+	- [love-loader](https://github.com/alejandro-alzate/love-loader) A multi threaded asset loader for [LÖVE2D](love2d.org) made by [kikito](https://github.com/kikito)
+	- [ldoc](https://github.com/alejandro-alzate/ldoc) Hosted by [lunarmodules](https://github.com/lunarmodules/ldoc) ldoc is a tool for documenting lua files.
 
 ## Other
 Things that doesn't fit snugly on other categories...
