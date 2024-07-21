@@ -27,7 +27,7 @@ This repo just highlight my projects that at least hold any water or are worth c
 </div>
 <div align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alejandro-alzate&theme=2077" alt="Streak"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejandro-alzate&theme=2077&utcOffset=8" alt="Productive time"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejandro-alzate&theme=2077&utcOffset=-5" alt="Productive time"/>
 </div>
 
 
