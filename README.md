@@ -1,4 +1,6 @@
 # *Repository Map*
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falejandro-alzate%2Frepo-map&count_bg=%2379C83D&title_bg=%23292929&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 A map to guide you through my mess. Cut and dry I really don't think my repos are the best to navigate through, so better help the chore with ease.
 
 Hello guys I'm alejandro-alzate I'm a computer enthusiast, I generally code for fun and I share my projects tools and libraries that I've developed over the time.
